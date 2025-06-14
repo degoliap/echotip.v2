@@ -5,7 +5,7 @@ import mkcert from 'vite-plugin-mkcert';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/reactjs-template/',
+  base: '/echotip.v2/',
   css: {
     preprocessorOptions: {
       scss: {
